@@ -1,9 +1,19 @@
 ### Hi there 👋
 
-## My name is Quincy Miller,
+My name is Quincy Miller. I currently work at Hubbell Incorporated, focusing on developing full-stack solutions and cloud infrastructure.
 
-I am software engineer currently based in Connecticut. I currently work at Hubbell Inc and graduated UCONN with a bachelors after studying Computer Science and Engineering.
+I graduated from the University of Connecticut (UCONN) with a B.S.E. in Computer Science & Engineering, concentrating on Software Design & Development.
 
-<!-- For more information about everything I've been involved in, feel free to explore my page or check out my portfolio: https://quincymiller.netlify.app
- -->
-For ways to reach me, feel free to email me: quincymiller6589@gmail.com and I'm sure I will respond ASAP!
+**Core Interests & Technologies:**
+
+*   **Full-Stack Development:** TypeScript, JavaScript, Python, C#, Java, .NET, Node.js, React, Angular, Vue, FastAPI
+*   **Cloud & DevOps:** Microsoft Azure, Terraform, Docker, Azure DevOps, CI/CD, IaC
+*   **Databases:** PostgreSQL, MySQL, Supabase, Pinecone (Vector DB)
+*   **AI/ML Concepts:** LangChain, RAG, OpenAI API, Google Gemini API
+
+I'm passionate about building scalable, impactful software and continuously learning new technologies.
+
+📫 **Connect with me:**
+
+*   **Email:** quincymiller6589@gmail.com
+*   **LinkedIn:** linkedin.com/in/qrm111
